@@ -55,5 +55,9 @@ An Ansible Role to create Teams in Ansible Tower.
       loop_control:
         loop_var: team
 ```
+
+## License
+[MIT](License)
+
 ## Author
 [Andrew J. Huffman](mailto:ahuffman@redhat.com)
