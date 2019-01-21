@@ -51,6 +51,8 @@ galaxy_info:
 
   galaxy_tags:
     - "ansibletower"
+    - "tower"
+    - "awx"
     - "genie"
     - "team"
     - "teams"
