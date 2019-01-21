@@ -60,4 +60,4 @@ An Ansible Role to create Teams in Ansible Tower.
 [MIT](License)
 
 ## Author
-[Andrew J. Huffman](mailto:ahuffman@redhat.com)
+[Andrew J. Huffman](https://github.com/ahuffman)
