@@ -1,6 +1,6 @@
-# genie-teams
+# ansible_tower_genie_teams
 ## Description
-An Ansible Role to create a Team in Ansible Tower.
+An Ansible Role to create Teams in Ansible Tower.
 ## Variables
 |Variable Name|Default Value|Required|Description|
 |:---:|:---:|:---:|:---:|
